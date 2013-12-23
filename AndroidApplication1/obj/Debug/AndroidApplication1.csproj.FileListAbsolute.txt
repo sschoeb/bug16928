@@ -1,0 +1,13 @@
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.pdb
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.dll.mdb
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1.apk
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\bin\Debug\AndroidApplication1.AndroidApplication1-Signed.apk
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.dll
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\AndroidApplication1.pdb
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\android\bin\AndroidApplication1.AndroidApplication1.apk
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\res\layout\main.xml
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\res\values\strings.xml
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\res\drawable\icon.png
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\R.cs.flag
+C:\Projects\ACS\AndroidApplication1\AndroidApplication1\obj\Debug\uploadflags.txt
